@@ -1,0 +1,14 @@
+<edges>
+    <edge>
+        <start x="1" y="90" z="-79" />
+        <end x="10" y="80" z="-57" />
+    </edge>
+    <edge>
+        <start x="-90" y="30" z="50" />
+        <end x="-77" y="20" z="60" />
+    </edge>
+    <edge>
+        <start x="-30" y="0" z="30" />
+        <end x="-20" y="10" z="40" />
+    </edge>
+</edges>
